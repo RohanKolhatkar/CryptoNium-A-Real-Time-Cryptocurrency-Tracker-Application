@@ -1,4 +1,4 @@
-
+.
 # CryptoNium-A-Real-Time-Cryptocurrency-Tracker-Application
 
 This project involves real-time tracking of cryptocurrency data and retrieving the latest news about cryptocurrency using an API called Crypto-Rating from Rapidapi.com. The technologies used for developing this project are React, Redux-Toolkit, and Nodejs.

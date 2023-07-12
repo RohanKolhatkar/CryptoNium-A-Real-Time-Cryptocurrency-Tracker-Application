@@ -2,9 +2,6 @@
 
 This project involves real-time tracking of cryptocurrency data and retrieving the latest news about cryptocurrency using an API called Crypto-Rating from Rapidapi.com. The technologies used for developing this project are React, Redux-Toolkit, and Nodejs.
 
-This project was bootstrapped with 
-[Create React App](https://github.com/facebook/create-react-app).
-
 
 
 
@@ -13,7 +10,7 @@ You can access this using this link:
 
 https://crypto-nium.netlify.app/
 
-
+![logoforreadme](https://github.com/RohanKolhatkar/Article-Summarizer-Application-using-OpenAI-s-GPT-model-and-React/assets/74040444/374bd7d0-9892-47c0-87a0-997663d6758e)
 ## Tech Stack
 
 **Client-Side:** React, Redux, TailwindCSS

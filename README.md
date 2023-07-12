@@ -10,7 +10,7 @@ You can access this using this link:
 
 https://crypto-nium.netlify.app/
 
-![logoforreadme](https://github.com/RohanKolhatkar/Article-Summarizer-Application-using-OpenAI-s-GPT-model-and-React/assets/74040444/374bd7d0-9892-47c0-87a0-997663d6758e)
+![logoforreadme](https://github.com/RohanKolhatkar/CryptoNium-A-Real-Time-Cryptocurrency-Tracker-Application/blob/master/cryptonium.jpg)
 ## Tech Stack
 
 **Client-Side:** React, Redux, TailwindCSS

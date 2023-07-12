@@ -6,9 +6,7 @@ This project involves real-time tracking of cryptocurrency data and retrieving t
 
 
 ## Demo
-You can access this using this link:
-
-https://crypto-nium.netlify.app/
+You can access this using this link: https://crypto-nium.netlify.app/
 
 ![logoforreadme](https://github.com/RohanKolhatkar/CryptoNium-A-Real-Time-Cryptocurrency-Tracker-Application/blob/master/cryptonium.jpg)
 ## Tech Stack
